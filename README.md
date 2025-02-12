@@ -41,7 +41,7 @@ I'm a passionate Backend Developer with a deep interest in AI and machine learni
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Goving98&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 ### AI-Powered Backend Service
@@ -55,8 +55,7 @@ A high-performance caching solution using Redis and Node.js
 - Features: Load balancing, fault tolerance, high availability
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURPROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR](https://www.linkedin.com/in/govind-daliya-a2454b228/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govinddaliya99@gmail.com)
 
 ---
-⭐️ From [YOURUSERNAME](https://github.com/Goving98)
