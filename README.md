@@ -55,7 +55,7 @@ A high-performance caching solution using Redis and Node.js
 - Features: Load balancing, fault tolerance, high availability
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/govind-daliya-a2454b228/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-daliya-a2454b228/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govinddaliya99@gmail.com)
 
 ---
