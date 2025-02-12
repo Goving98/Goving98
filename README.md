@@ -62,7 +62,7 @@ A state-of-the-art foundation model for DNA analysis using Byte Pair Encoding(BP
 ### RAG Powered Document Query
 A  full-stack application enabling users to upload and manage diverse document types with integrated document management.
 - Tech stack: FastAPI, React, Facebook AI Similarity Search (Faiss), Redis, Docker
-- Features: Advanced querying, Content extraction ,  Diverse documen
+- Features: Advanced querying, Content extraction ,  Diverse document handling.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-daliya-a2454b228/)
