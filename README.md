@@ -55,14 +55,14 @@ I'm a passionate Backend Developer with a deep interest in AI and machine learni
 
 ## 🌟 Featured Projects
 ### DNABERT-2
-A scalable backend service using Django and TensorFlow for real-time predictions
-- Tech stack: Python, Django, TensorFlow, PostgreSQL, Docker
-- Features: REST API, real-time processing, scalable architecture
+A state-of-the-art foundation model for DNA analysis using Byte Pair Encoding(BPE) for tokenization.
+- Tech stack: Python, Linux (For command line)
+- Features:  DNA analysis ,  Processing of longer sequences , Faster promoter prediction
 
 ### RAG Powered Document Query
-A high-performance caching solution using Redis and Node.js
-- Tech stack: Node.js, Redis, Docker
-- Features: Load balancing, fault tolerance, high availability
+A  full-stack application enabling users to upload and manage diverse document types with integrated document management.
+- Tech stack: FastAPI, React, Facebook AI Similarity Search (Faiss), Redis, Docker
+- Features: Advanced querying, Content extraction ,  Diverse documen
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-daliya-a2454b228/)
