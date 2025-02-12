@@ -14,6 +14,8 @@ I'm a passionate Backend Developer with a deep interest in AI and machine learni
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -21,10 +23,18 @@ I'm a passionate Backend Developer with a deep interest in AI and machine learni
 ### AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=nlp&logoColor=white)
+
 
 ### Database & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,18 +54,18 @@ I'm a passionate Backend Developer with a deep interest in AI and machine learni
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Goving98&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-### AI-Powered Backend Service
+### DNABERT-2
 A scalable backend service using Django and TensorFlow for real-time predictions
 - Tech stack: Python, Django, TensorFlow, PostgreSQL, Docker
 - Features: REST API, real-time processing, scalable architecture
 
-### Distributed Cache System
+### RAG Powered Document Query
 A high-performance caching solution using Redis and Node.js
 - Tech stack: Node.js, Redis, Docker
 - Features: Load balancing, fault tolerance, high availability
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-daliya-a2454b228/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-daliya-a2454b228/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govinddaliya99@gmail.com)
 
 ---
