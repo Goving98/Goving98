@@ -5,8 +5,8 @@
 I'm a passionate Backend Developer with a deep interest in AI and machine learning. I love tackling complex problems and building scalable solutions that make a difference.
 
 ## 🚀 About Me
-- 🔭 I'm currently working on AI-powered backend solutions
-- 🌱 I'm constantly learning about advanced ML techniques and system design
+- 🔭 Building an Anamoly detection pipeline
+- 🌱 Learning & building Distributed systems
 - 💡 I enjoy optimizing systems and solving algorithmic challenges
 - 🤝 Always open to collaborating on innovative projects
 
